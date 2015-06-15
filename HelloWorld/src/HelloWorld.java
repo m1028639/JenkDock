@@ -8,6 +8,8 @@ public class HelloWorld {
 	
 	System.out.println("Hello Bangalore !");
 	
+	System.out.println("Hello Global Village !");
+	
 	
 	}
 	
